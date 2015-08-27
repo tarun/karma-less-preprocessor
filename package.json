@@ -19,7 +19,7 @@
   ],
   "author": "David Sergey <nirth.furzahad@gmail.com>, Cloud Chen <cloudcmh@gmail.com>",
   "dependencies": {
-    "less": "~1.7"
+    "less": "^2"
   },
   "peerDependencies": {
     "karma": ">=0.10"
@@ -29,7 +29,8 @@
     "grunt": "~0.4.1",
     "grunt-npm": "~0.0.2",
     "grunt-bump": "~0.0.7",
-    "grunt-auto-release": "~0.0.2"
+    "grunt-auto-release": "~0.0.2",
+    "karma": ">=0.10"
   },
   "contributors": ["David Sergey <nirth.furzahad@gmail.com>"]
 }
